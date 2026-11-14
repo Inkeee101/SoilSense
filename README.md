@@ -32,9 +32,7 @@ streamlit run app.py
 - The data contains an extreme rainfall year (2024) that can distort averages
 
 ## Team
-Leona Miriam - Leader and Backend development
-Mohammed Al- Siyabi - UI/UX development
-Rashid Al- Manei - UI/UX development
+Leona Miriam - Leader and Frontend/Backend development 
 Nada Soliman - AI Agent
 Prema Das - Backend development
 Sana Parveen - Backend development
