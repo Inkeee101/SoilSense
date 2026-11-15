@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+streamlit>=1.40
+requests
+python-dotenv
+Pillow
