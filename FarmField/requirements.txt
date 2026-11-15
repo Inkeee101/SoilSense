@@ -1,6 +1,0 @@
-pandas
-numpy
-scipy
-streamlit>=1.39
-requests
-python-dotenv
